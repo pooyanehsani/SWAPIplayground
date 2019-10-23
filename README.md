@@ -1,5 +1,6 @@
 #star wars geek
-In this tiny project ** Angular Http service **used to make a **GET request** from the Star Wars API, a free API which return JSON results in a **RESTish** implementation. There is a service provider which include function (getFilms(), getPlanets(), ...) to return observable through Http Get request. **ion-tabs** used from **IONIC 4** to implement a tab-based navigation.
+This project based on **Angular 6** and **IONIC 4**.
+In this tiny project **Angular Http service** used to make a **GET request** from the Star Wars API, a free API which return JSON results in a **RESTish** implementation. There is a service provider which include function (getFilms(), getPlanets(), ...) to return observable through Http Get request. **ion-tabs** used from **IONIC 4** to implement a tab-based navigation.
 
 ## Instalation
 ```
@@ -7,9 +8,17 @@ In this tiny project ** Angular Http service **used to make a **GET request** fr
 npm install
 ```
 
-##Browse Ionic 4 app
+## Browse Ionic 4 app
 ```
 
 ionic serve
 ```
-##Screenshot
+## Screenshot
+    Films tabs              |       Film Details
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/pooyanehsani/SWAPIplayground/master/ion-images/ionic2.png)  |  ![](https://raw.githubusercontent.com/pooyanehsani/SWAPIplayground/master/ion-images/ionic4.png)
+
+## Screenshot
+    Planets tabs              |       planet Details
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/pooyanehsani/SWAPIplayground/master/ion-images/ionic1.png)  |  ![](https://raw.githubusercontent.com/pooyanehsani/SWAPIplayground/master/ion-images/ionic3.png)
