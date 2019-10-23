@@ -16,9 +16,9 @@ ionic serve
 ## Screenshot
     Films tabs              |       Film Details
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/pooyanehsani/SWAPIplayground/master/ion-images/ionic2.png)  |  ![](https://raw.githubusercontent.com/pooyanehsani/SWAPIplayground/master/ion-images/ionic4.png)
+![](https://raw.githubusercontent.com/pooyanehsani/SWAPIplayground/master/ion-images/ionic2.png width=100)  |  ![](https://raw.githubusercontent.com/pooyanehsani/SWAPIplayground/master/ion-images/ionic4.png width=100)
 
-## Screenshot
+
     Planets tabs              |       planet Details
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/pooyanehsani/SWAPIplayground/master/ion-images/ionic1.png)  |  ![](https://raw.githubusercontent.com/pooyanehsani/SWAPIplayground/master/ion-images/ionic3.png)
+![](https://raw.githubusercontent.com/pooyanehsani/SWAPIplayground/master/ion-images/ionic1.png width=100)  |  ![](https://raw.githubusercontent.com/pooyanehsani/SWAPIplayground/master/ion-images/ionic3.png width=100)
